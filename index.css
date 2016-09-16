@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    box-sizing: border-box;
+    height: 600px;
+    border: 1px solid black;
+}
